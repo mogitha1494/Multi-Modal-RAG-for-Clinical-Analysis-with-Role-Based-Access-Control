@@ -1,0 +1,16 @@
+torch>=1.13.0
+transformers>=4.28.0
+faiss-cpu>=1.7.2
+sentence-transformers>=2.2.2
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+flask
+python-dotenv
+requests
+Pillow
+tqdm
+google-generativeai
