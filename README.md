@@ -98,14 +98,6 @@ A usability survey was conducted with **50 stakeholders** (doctors, nurses, pati
 └── README.md
 ```
 
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Authors
 
 * Prahalyaa A
@@ -114,5 +106,12 @@ This project is licensed under the MIT License.
 
 Department of Computer Science and Engineering,
 Amrita Vishwa Vidyapeetham, Coimbatore
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+
 
 
