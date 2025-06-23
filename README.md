@@ -8,7 +8,7 @@ A secure, multimodal healthcare analysis system using Retrieval-Augmented Genera
 ## Features
 
 - Role-based access to sensitive medical data
-- Multimodal embedding using FLAVA (image + text)
+- Multimodal embedding using FLAVA (Image + Text)
 - Fast similarity search with FAISS
 - Summarized output using LLM (Gemini)
 - Evaluated using stakeholder survey and benchmark models
