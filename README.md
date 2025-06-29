@@ -22,7 +22,7 @@ A secure, multimodal healthcare analysis system using Retrieval-Augmented Genera
 | **FLAVA** | ⭐⭐⭐⭐☆ | Strong | High |
 | CLIP  | ⭐⭐⭐☆☆ | Moderate | Medium |
 
-FLAVA outperformed CLIP in generating accurate and relevant embeddings for multimodal medical data (X-ray + report).
+FLAVA outperformed CLIP in generating accurate and relevant embeddings for multimodal medical data (X-ray + report) .
 
 ---
 
